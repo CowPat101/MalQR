@@ -10,7 +10,7 @@ NOTE: Any "V3" in files refers to the 3rd iteration of feature extraction gather
 
 Raw dataset - Custom dataset used to train each machine learning model. Contains the individual html files and csv file which links a URL to a html file. Too big to be included locally. Can be downloaded here: https://www.kaggle.com/datasets/jackcavar/malicious-and-benign-website-dataset/data
 
-Files contained include:
+Folder "python files" contains:
 
 	- extractFeatures.py - feature extraction for creating the training and validation files from the dataset
 
