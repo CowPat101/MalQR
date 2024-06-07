@@ -4,7 +4,7 @@ Jack Cavar - 2000314 - Machine learning Malicious QR code scanner
 
 This is an extremely cut content version of code used to create the entire machine learning process behind the malicious QR code scanning project V1 for my dissertation at Abertay University. As such the files will show the overall code used to execute the project but cannot run successfully on device.
 
-To understand the full context behind the QR code website safety process, view the site here: https://www.jackqr.net/
+To understand the full context behind the QR code website safety project, view the site here: https://www.jackqr.net/
 
 NOTE: Any "V3" in files refers to the 3rd iteration of feature extraction gathering process. "V7" and "V8" both reference the final feature build algorithms for creating and testing the models which were used within the dissertation.
 
