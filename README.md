@@ -72,10 +72,7 @@ Folder "python files" contains:
 
 			- Additional python scrapy files for runtime.
 
-
-training_featuresv(7/8).npz - processed training data for use in training a machine learning model. Loaded in most python programs included.
-
-validation_featuresv(7/8).npz - processed validation data for use in validating a newly trained machine learning model. Loaded in most python programs included.
+training and validation features have been removed from this repository to allow for newcomers to attempt on their own.
 
 modelv9_float16.tflite - model created using the process from "light_convert.py" and then onnx2tf
 
