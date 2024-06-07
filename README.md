@@ -4,6 +4,8 @@ Jack Cavar - 2000314 - Malicious QR code scanner
 
 Files may not run correctly without their correct pathing and necessary files. All files should be added here but some might be missing ooops!
 
+To understand the full context behind the QR code website safety process, view the site here: https://www.jackqr.net/
+
 NOTE: Any "V3" in files refers to the 3rd iteration of feature extraction gathering process. "V7" and "V8" both reference the final feature build algorithms for creating and testing the models which were used within the dissertation.
 
 Raw dataset - Custom dataset used to train each machine learning model. Contains the individual html files and csv file which links a URL to a html file. Too big to be included locally. Can be downloaded here: https://www.kaggle.com/datasets/jackcavar/malicious-and-benign-website-dataset/data
