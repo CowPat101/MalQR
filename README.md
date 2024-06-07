@@ -50,9 +50,9 @@ Folder "collectData/grabMal" contains:
 
 training and validation features and models have been removed from this repository to allow for newcomers to attempt on their own.
 
-Folder "malqrdetect" contains all main code files relating to the QR code scanning Android application created. 
+Folder "malqrdetect-Android" contains all main code files relating to the QR code scanning Android application created. 
 
-The "malqrdetect" folder contains the main following files: 
+The "malqrdetect-Android" folder contains the main following files: 
 
 	- "Scan.kt" and "BarCodeAnalyse.kt" - Responsible for the logic behind discovering a QR code and displaying the scanning page
 
