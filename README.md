@@ -79,8 +79,6 @@ validation_featuresv(7/8).npz - processed validation data for use in validating 
 
 modelv9_float16.tflite - model created using the process from "light_convert.py" and then onnx2tf
 
-Survey_Results.xlsx - Results from the survey conducted with anonymous participants. Calculations for working out the SUS score can also be found within this document.
-
 Folder "Android" contains all files relating to the QR code scanning Android application created. Go to: "Android > app > src > main" to access all main files. Additionally, open the project up in Android studio for an easier viewing experience. 
 
 	The "Android" folder contains the main following files: 
